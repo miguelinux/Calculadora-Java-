@@ -61,8 +61,13 @@ public class Calculadora {
     {
          return iOperadorA / iOperadorB;
     }
-//    public int Resultado(){
-//    
-//    };
+
+    public void Resultado(){
+        System.out.println("dav_branch");
+        System.out.println(Suma());
+        System.out.println(Resta());
+        System.out.println(Multiplicacion());
+        System.out.println(Division());
+    }
     
 }
