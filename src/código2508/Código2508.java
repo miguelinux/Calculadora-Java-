@@ -21,7 +21,7 @@ public class Código2508 {
         Calculadora cDefecto = new Calculadora();
         //dav_branch example
         cDefecto.Resultado();
-        System.out.println("Con valores");
+        System.out.println("Con valores:");
         System.out.println(c1.Suma());
         System.out.println(c1.Resta());
         System.out.println(c1.Multiplicacion());
